@@ -1,3 +1,6 @@
+# dgbminer
+sudo apt update
+
 #  File
 wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer-cpu-linux.tar.gz
 
